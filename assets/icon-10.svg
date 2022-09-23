@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="64px" viewBox="0 0 66 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Dynamic Data</title>
+    <g id="Icons/Dynamic-Data" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#F2D4C7" cx="40.5" cy="34.2544898" r="25.5"></circle>
+        <circle id="Oval" stroke="#171C34" cx="24.5" cy="28.5" r="24"></circle>
+        <path d="M27.1925683,33.3071353 C28.0525087,31.8452195 28.5459879,30.1398928 28.5459879,28.318768 C28.5459879,22.8960122 24.1704695,18.5 18.772994,18.5 C13.3755184,18.5 9,22.8960122 9,28.318768 C9,33.7415238 13.3755184,38.137536 18.772994,38.137536 C19.1737651,38.137536 19.5689019,38.1132994 19.9570315,38.0662057" id="Oval-2" stroke="#171C34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M21.4008515,23.0229181 C20.4248789,24.5508855 19.8588822,26.3684193 19.8588822,28.318768 C19.8588822,33.7415238 24.2344006,38.137536 29.6318761,38.137536 C35.0293517,38.137536 39.4048701,33.7415238 39.4048701,28.318768 C39.4048701,22.8960122 35.0293517,18.5 29.6318761,18.5 C29.1104495,18.5 28.5985604,18.5410265 28.0992323,18.6200417" id="Oval-2-Copy" stroke="#171C34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

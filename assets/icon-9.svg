@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="64px" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/APIs</title>
+    <g id="Icons/APIs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#F2D4C7" cx="39.5" cy="32" r="25.5"></circle>
+        <g id="Icon" transform="translate(0.000000, 10.500000)" stroke="#171C34">
+            <polygon id="Stroke-1" points="0 41 50 41 50 29 0 29"></polygon>
+            <polygon id="Stroke-3" points="25 29 50 29 50 17 25 17"></polygon>
+            <polygon id="Stroke-4" points="0 29 25 29 25 17 0 17"></polygon>
+            <polygon id="Stroke-6" points="0 17 50 17 50 5 0 5"></polygon>
+            <polygon id="Stroke-8" points="9 4.95 19 4.95 19 0.85 9 0.85"></polygon>
+            <polygon id="Stroke-9" points="30 4.95 40 4.95 40 0.85 30 0.85"></polygon>
+        </g>
+    </g>
+</svg>

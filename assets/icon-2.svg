@@ -1,0 +1,14 @@
+<svg width="59" height="56" viewBox="0 0 59 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="33.5" cy="25.5" r="25.5" fill="#F2D4C7"/>
+<line x1="35.2552" y1="24.6627" x2="22.6625" y2="30.4218" stroke="#171C34" stroke-linecap="round"/>
+<mask id="path-3-inside-1_767_2477" fill="white">
+<path d="M45 33.5C45 27.5326 42.6295 21.8097 38.4099 17.5901C34.1903 13.3705 28.4674 11 22.5 11C16.5326 11 10.8097 13.3705 6.5901 17.5901C2.37053 21.8097 9.01048e-07 27.5326 0 33.5L22.5 33.5H45Z"/>
+</mask>
+<path d="M45 33.5C45 27.5326 42.6295 21.8097 38.4099 17.5901C34.1903 13.3705 28.4674 11 22.5 11C16.5326 11 10.8097 13.3705 6.5901 17.5901C2.37053 21.8097 9.01048e-07 27.5326 0 33.5L22.5 33.5H45Z" stroke="#171C34" stroke-width="2" mask="url(#path-3-inside-1_767_2477)"/>
+<circle cx="22.5" cy="31.5" r="4" fill="#F2D4C7" stroke="#171C34"/>
+<line x1="22.5" y1="11.5" x2="22.5" y2="14.5" stroke="#171C34" stroke-linecap="round"/>
+<line x1="43.5" y1="28.5" x2="40.5" y2="28.5" stroke="#171C34" stroke-linecap="round"/>
+<line x1="4.5" y1="28.5" x2="1.5" y2="28.5" stroke="#171C34" stroke-linecap="round"/>
+<line x1="10.9292" y1="18.9629" x2="8.95311" y2="16.7057" stroke="#171C34" stroke-linecap="round"/>
+<line x1="0.5" y1="-0.5" x2="3.5" y2="-0.5" transform="matrix(0.6587 -0.752406 -0.752406 -0.6587 33 19.0098)" stroke="#171C34" stroke-linecap="round"/>
+</svg>
